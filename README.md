@@ -51,7 +51,7 @@
 ```
 
 <div align="center">
-  <img width="90%" alt="전체 회로도 (1개 음계 기준)" src="여기에_7페이지_전체회로도_이미지_URL_입력" />
+  <img width="826" height="569" alt="image" src="https://github.com/user-attachments/assets/edb23aec-5b89-4315-9412-881f1fad9a3b" />
 </div>
 
 ### 🛠 Tech Stack & Hardware Components
