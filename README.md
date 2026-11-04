@@ -129,8 +129,7 @@
 
 | 비연주 상태 (CdS 빛 감지 - Mute) | 연주 상태 (CdS 빛 차단 - Sine Wave 출력) |
 | :---: | :---: |
-| <img width="851" height="1191" alt="image" src="https://github.com/user-attachments/assets/350105c1-64d5-4f9a-9d46-a3a047f66752" />
- | <img width="841" height="1243" alt="image" src="https://github.com/user-attachments/assets/d5763f2f-9c06-4739-bf2b-f9aaeac9932e" /> |
+| <img width="851" height="1191" alt="image" src="https://github.com/user-attachments/assets/350105c1-64d5-4f9a-9d46-a3a047f66752" /> | <img width="841" height="1243" alt="image" src="https://github.com/user-attachments/assets/d5763f2f-9c06-4739-bf2b-f9aaeac9932e" /> |
 | LM339 출력 0V 유지, 스피커 출력단 신호 차단 | 2N3904 게이트 개방, 스피커 단 정현파 정상 출력 확인 |
 
 ---
@@ -139,9 +138,7 @@
 
 | 1차 발진 회로 (발진 불량 / 클리핑) | 2차 발진 회로 (고조파 왜곡 / 기계음) | 3차 최종 회로 (순수 정현파 출력) |
 | :---: | :---: | :---: |
-| <img width="844" height="295" alt="image" src="https://github.com/user-attachments/assets/484f8dd5-913e-4092-843f-0dda580be3ba" />
- | <img width="850" height="306" alt="image" src="https://github.com/user-attachments/assets/289f5887-4631-4c71-a898-8aef8d64232c" />
- | <img width="862" height="377" alt="image" src="https://github.com/user-attachments/assets/f418570f-1f56-45c9-89b7-7ee41d24c844" /> |
+| <img width="844" height="295" alt="image" src="https://github.com/user-attachments/assets/484f8dd5-913e-4092-843f-0dda580be3ba" />  | <img width="850" height="306" alt="image" src="https://github.com/user-attachments/assets/289f5887-4631-4c71-a898-8aef8d64232c" />  | <img width="862" height="377" alt="image" src="https://github.com/user-attachments/assets/f418570f-1f56-45c9-89b7-7ee41d24c844" /> |
 
 ---
 
@@ -176,8 +173,3 @@ Analog_Optical_Theremin/
 │   └── oscilloscope_waveforms/      # 오실로스코프 파형 캡처 및 하드웨어 사진
 └── README.md
 ```
-````[cite: 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17]
-
----
-
-이미지와 영상 파일을 GitHub 편집창에 드래그 앤 드롭하여 생성된 `[https://github.com/user-attachments/assets/](https://github.com/user-attachments/assets/)...` 주소만 각 자리표시자에 넣어주시면 완성됩니다. 추가로 수정하거나 강조하고 싶은 부분이 있다면 편하게 말씀해 주세요!
