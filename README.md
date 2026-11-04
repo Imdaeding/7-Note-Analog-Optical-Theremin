@@ -129,7 +129,8 @@
 
 | 비연주 상태 (CdS 빛 감지 - Mute) | 연주 상태 (CdS 빛 차단 - Sine Wave 출력) |
 | :---: | :---: |
-| <img width="100%" alt="비연주 시뮬레이션" src="여기에_8페이지_시뮬레이션1_URL_입력" /> | <img width="100%" alt="연주 시뮬레이션" src="여기에_9페이지_시뮬레이션2_URL_입력" /> |
+| <img width="851" height="1191" alt="image" src="https://github.com/user-attachments/assets/350105c1-64d5-4f9a-9d46-a3a047f66752" />
+ | <img width="841" height="1243" alt="image" src="https://github.com/user-attachments/assets/d5763f2f-9c06-4739-bf2b-f9aaeac9932e" /> |
 | LM339 출력 0V 유지, 스피커 출력단 신호 차단 | 2N3904 게이트 개방, 스피커 단 정현파 정상 출력 확인 |
 
 ---
@@ -138,14 +139,17 @@
 
 | 1차 발진 회로 (발진 불량 / 클리핑) | 2차 발진 회로 (고조파 왜곡 / 기계음) | 3차 최종 회로 (순수 정현파 출력) |
 | :---: | :---: | :---: |
-| <img width="100%" alt="1차 파형" src="여기에_10페이지_오실로1_URL_입력" /> | <img width="100%" alt="2차 파형" src="여기에_10페이지_오실로2_URL_입력" /> | <img width="100%" alt="3차 파형" src="여기에_10페이지_오실로3_URL_입력" /> |
+| <img width="844" height="295" alt="image" src="https://github.com/user-attachments/assets/484f8dd5-913e-4092-843f-0dda580be3ba" />
+ | <img width="850" height="306" alt="image" src="https://github.com/user-attachments/assets/289f5887-4631-4c71-a898-8aef8d64232c" />
+ | <img width="862" height="377" alt="image" src="https://github.com/user-attachments/assets/f418570f-1f56-45c9-89b7-7ee41d24c844" /> |
 
 ---
 
 ### 🔹 하드웨어 브레드보드 프로토타입 및 시연 영상
 
 <div align="center">
-  <img width="80%" alt="제작된 전체 하드웨어 사진" src="여기에_11페이지_브레드보드_사진_URL_입력" />
+  <img width="756" height="765" alt="image" src="https://github.com/user-attachments/assets/e68cdfb5-bffb-43d8-a0a5-0c252bfbca93" />
+
 </div>
 
 <div align="center">
